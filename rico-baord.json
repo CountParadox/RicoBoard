@@ -1,0 +1,168 @@
+[
+  {
+    "backcolor": "#444444",
+    "name": "Rico Baord",
+    "author": "CountParadox",
+    "notes": "Designed primarily for Fn layer to be easy to remember while keeping full 104-equivalent functionality.\n\nTop layer keys changed from default in blue:\n* Esc/` changed to Esc only to allow key combinations that include shift.\n* Backspace instead of Caps Lock stolen from Colemak layout. Still in standard location as old habits die hard and I relpase occasionally. Caps Lock now on Fn layer.\n* I use Home and End for navigating and highlighting text more than Page Up/Down so made them default.\n\nFn Layer Notes:\n* Extra set of Home/End and Page Up/Down on the arrow keys as I think it's intuitive placement. Testing which cluster gets more use.\n* Insert just makes more sense on Delete than the default. Same with Page Up/Down and Home/End.\n* Fn + Esc launches Task Manager in windows (Brogrammed as second Fn key hitting Ctrl + Shift + Esc)\n* ESDF scrolling without moving left hand off homerow.\n* YGHJ mouse movement by moving left hand over to homing bump. Left click on Enter, Right on Shift and Middle on \\ are reasonable comfortable while holding Fn. (Only intended for occasional use at best)\n* P = Play/Pause. Square brackets correspond to Back/Next. Square in line on O.\n* L = Lighting. ; and ' cycle through LED modes.\n* M = Mute. Angle Brackets correspond to Vollume Down/Up.\n* C = Calculator\n* N = Num Lock\n* B = (Pause) Break\n* V = Print Screen to keep in line with Num and Pause. Scroll lock on in top right as I actually use in on occasion and it's very quick to find.\n* Menu just above Fn on ? because I use it frequently. May move to Top Layer above Right Arrow if I decide to stick with the arrow cluster for Home/End and Page Up/Down.",
+    "switchMount": "cherry",
+    "switchBrand": "gateron",
+    "switchType": "KS-3-Green",
+    "plate": true
+  },
+  [
+    {
+      "c": "#aaaaaa",
+      "t": "#0000ff\n\n\n#aa0000",
+      "a": 0
+    },
+    "\n\nu\n\n0\n0",
+    {
+      "c": "#cccccc",
+      "t": "#000000",
+      "a": 3
+    },
+    "\n\n\n\n0\n1",
+    "\n\n\n\n0\n2",
+    "\n\n\n\n0\n3",
+    "\n\n\n\n0\n4",
+    "\n\n\n\n0\n5",
+    "\n\n\n\n0\n6",
+    "\n\n\n\n0\n7",
+    "\n\n\n\n0\n8",
+    "\n\n\n\n0\n9",
+    "\n\n\n\n0\n10",
+    "\n\n\n\n0\n11",
+    "\n\n\n\n0\n12",
+    {
+      "c": "#aaaaaa",
+      "w": 2
+    },
+    "\n\n\n\n0\n13",
+    {
+      "t": "#0000ff\n\n\n#aa0000",
+      "a": 0
+    },
+    "\n\nu\n\n0\n14"
+  ],
+  [
+    {
+      "t": "#000000",
+      "a": 3,
+      "w": 1.5
+    },
+    "\n\n\n\n1\n0",
+    {
+      "c": "#cccccc"
+    },
+    "\n\n\n\n1\n1",
+    "\n\n\n\n1\n2",
+    "\n\n\n\n1\n3",
+    "\n\n\n\n1\n4",
+    "\n\n\n\n1\n5",
+    "\n\n\n\n1\n6",
+    "\n\n\n\n1\n7",
+    "\n\n\n\n1\n8",
+    "\n\n\n\n1\n9",
+    "\n\n\n\n1\n10",
+    "\n\n\n\n1\n11",
+    "\n\n\n\n1\n12",
+    {
+      "w": 1.5
+    },
+    "\n\n\n\n1\n13",
+    {
+      "c": "#aaaaaa",
+      "t": "#0000ff"
+    },
+    "\n\n\n\n1\n14"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "\n\n\n\n2\n0",
+    {
+      "c": "#cccccc",
+      "t": "#000000"
+    },
+    "\n\n\n\n2\n1",
+    "\n\n\n\n2\n2",
+    "\n\n\n\n2\n3",
+    "\n\n\n\n2\n4",
+    "\n\n\n\n2\n5",
+    "\n\n\n\n2\n6",
+    "\n\n\n\n2\n7",
+    "\n\n\n\n2\n8",
+    "\n\n\n\n2\n9",
+    "\n\n\n\n2\n10",
+    "\n\n\n\n2\n11",
+    {
+      "c": "#aaaaaa",
+      "w": 2.25
+    },
+    "\n\n\n\n2\n13",
+    {
+      "t": "#0000ff"
+    },
+    "\n\n\n\n2\n14"
+  ],
+  [
+    {
+      "t": "#000000",
+      "w": 2.25
+    },
+    "\n\n\n\n3\n0",
+    {
+      "c": "#cccccc"
+    },
+    "\n\n\n\n3\n2",
+    "\n\n\n\n3\n3",
+    "\n\n\n\n3\n4",
+    "\n\n\n\n3\n5",
+    "\n\n\n\n3\n6",
+    "\n\n\n\n3\n7",
+    "\n\n\n\n3\n8",
+    "\n\n\n\n3\n9",
+    "\n\n\n\n3\n10",
+    "\n\n\n\n3\n11",
+    {
+      "c": "#aaaaaa",
+      "w": 1.75
+    },
+    "\n\n\n\n3\n12",
+    "\n\n\n\n3\n13",
+    {
+      "t": "#0000ff"
+    },
+    "\n\n\n\n3\n14"
+  ],
+  [
+    {
+      "t": "#000000",
+      "w": 1.25
+    },
+    "\n\n\n\n4\n0",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\n4\n1",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\n4\n2",
+    {
+      "c": "#cccccc",
+      "w": 6.25
+    },
+    "\n\n\n\n4\n6",
+    {
+      "c": "#aaaaaa"
+    },
+    "\n\n\n\n4\n9",
+    "\n\n\n\n4\n10",
+    "\n\n\n\n4\n11",
+    "\n\n\n\n4\n12",
+    "\n\n\n\n4\n13",
+    "\n\n\n\n4\n14"
+  ]
+]
